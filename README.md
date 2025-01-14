@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Converter expressão regular para AFN
 
 <div align="center">
   <img src="https://img.shields.io/badge/Versão-1.0-blue.svg" alt="Versão 1.0">
