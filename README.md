@@ -9,7 +9,7 @@
 
 ## Resumo do Trabalho
 
->Implemenntar um codigo feito em python que transforma expressões regulares em AFN
+>Implementar um codigo feito em python que transforma expressões regulares em AFN
 
 ## Descrição
 
