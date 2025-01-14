@@ -39,10 +39,8 @@ Agradecemos a todas as pessoas e instituições que contribuíram para a realiza
 
 ## Outros Repositórios
 
-> **[Liste aqui os links para outros repositórios que fazem parte do seu portfólio ou que complementam este projeto. Exemplo:]**
-
-- [Link para outro projeto no Git](https://github.com/DarkGeekMS/regex-to-nfa/blob/main/src/build_nfa.py)
-- [Link para outro projeto no Git](https://github.com/aayushsrivastava/Regex-to-Epsilon-NFA/blob/master/re_to_nfa.py)
+- [Regex to NFA](https://github.com/DarkGeekMS/regex-to-nfa)
+- [Regex to Epsilon NFA](https://github.com/aayushsrivastava/Regex-to-Epsilon-NFA)
 
 ---
 
