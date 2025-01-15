@@ -23,7 +23,7 @@
 ## Autores
 
 - [Keven Gustavo](keven.gustavo@discente.ufma.br)  
-- [Autor 2](mailto:2@discente.ufma.br)  
+- [Lucas Emanoel](lucas.amaral@discente.ufma.br)  
 
 ---
 
